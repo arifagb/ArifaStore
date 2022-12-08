@@ -22,7 +22,7 @@ public class MainMenu {
     // Construtor do menu
     public MainMenu() throws InvalidSaleValueException, ProductNotFoundException, InsufficientStockException {
         {
-            System.out.println("Bem vindo ao sistema de vendas da Brastore!");
+            System.out.println("Bem vindo ao sistema de vendas da ArifaStore!");
 
             menu();
         }
